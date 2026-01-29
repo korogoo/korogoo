@@ -77,7 +77,7 @@ goo99dev@gmail.com
 ### 🎸 Band 🎸
 
 몽글덤 밴드 일렉기타 및 작편곡
-[![Video Label](https://img.youtube.com/vi/jDTh3jdxxBw/maxresdefault.jpg)](https://www.youtube.com/watch?v=jDTh3jdxxBw)
+[![video](http://i.ytimg.com/vi/jDTh3jdxxBw/default.jpg)](https://www.youtube.com/watch?v=jDTh3jdxxBw)
 
 
 </div>
