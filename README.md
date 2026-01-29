@@ -29,13 +29,15 @@ L사 영상관제시스템 외주 작업 서버파트 진행
 **우아한테크코스 8기 진행중**
 
 
-
+<br/>
 <br/>
 
 ### 📮 Email 📮
 
 goo99dev@gmail.com
 
+
+<br/>
 <br/>
 
 ### ⚒️ Skills ⚒️
@@ -63,11 +65,19 @@ goo99dev@gmail.com
 <img src="https://img.shields.io/badge/googlecloud-white?style=flat&logo=googlecloud&logoColor=4285F4"/>
 
 <br/>
-
 <br/>
 
 ### 👾 Algorithm 👾
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jgoo99)](https://solved.ac/jgoo99)
+
+<br/>
+<br/>
+
+### 🎸 Band 🎸
+
+몽글덤 밴드 일렉기타 및 작편곡
+[![Video Label](http://i.ytimg.com/vi/jDTh3jdxxBw/maxresdefault.jpg)](https://www.youtube.com/watch?v=jDTh3jdxxBw)
+
 
 </div>
