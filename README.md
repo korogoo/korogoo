@@ -47,7 +47,7 @@ goo99dev@gmail.com
 
 ### 📈 Stats 📈
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgoo99&show_icons=true&theme=nord)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=korogoo&show_icons=true&theme=nord)
 
 
 </div>
