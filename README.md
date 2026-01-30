@@ -79,7 +79,7 @@ goo99dev@gmail.com
 몽글덤 밴드 일렉기타 및 작편곡  
 성동문화재단(2025) 아티스트 7팀 선정  
 싱글 앨범 인간은 별안간 발매  
-크리테이티브 성수 & PUBG 성수 데뷔 무대  
+크리에이티브 성수 & PUBG 성수 데뷔 무대  
 
 
 [![video](http://i.ytimg.com/vi/jDTh3jdxxBw/default.jpg)](https://www.youtube.com/watch?v=jDTh3jdxxBw)
